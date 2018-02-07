@@ -1,0 +1,12 @@
+{
+    "items":[
+   			{"imgs":"/static/image/file1.jpg","txt":"美女与野兽","score":"8.0","dataId":"1"},
+   			{"imgs":"/static/image/file2.jpg","txt":"一条狗的使命","score":"8.0","dataId":"2"},
+   			{"imgs":"/static/image/file3.jpg","txt":"金刚狼3","score":"8.0","dataId":"3"},
+   			{"imgs":"/static/image/file4.jpg","txt":"生化危机","score":"8.0","dataId":"4"},
+   			{"imgs":"/static/image/file5.jpg","txt":"金刚","score":"8.0","dataId":"5"},
+   			{"imgs":"/static/image/file6.jpg","txt":"最终幻想","score":"8.0","dataId":"6"},
+   			{"imgs":"/static/image/file7.jpg","txt":"天才捕手","score":"8.0","dataId":"7"},
+   			{"imgs":"/static/image/file8.jpg","txt":"欢乐好声音","score":"8.0","dataId":"8"}
+   		]
+}
